@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jjcalamani92.github.io/csb-j2ix4k/static/css/main.9f082a5f.chunk.css",
+    "main.js": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/main.887333ab.chunk.js",
+    "main.js.map": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/main.887333ab.chunk.js.map",
+    "runtime-main.js": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/runtime-main.ccdefbc3.js",
+    "runtime-main.js.map": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/runtime-main.ccdefbc3.js.map",
+    "static/css/2.a1596f27.chunk.css": "https://jjcalamani92.github.io/csb-j2ix4k/static/css/2.a1596f27.chunk.css",
+    "static/js/2.e6fb5c48.chunk.js": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/2.e6fb5c48.chunk.js",
+    "static/js/2.e6fb5c48.chunk.js.map": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/2.e6fb5c48.chunk.js.map",
+    "index.html": "https://jjcalamani92.github.io/csb-j2ix4k/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "https://jjcalamani92.github.io/csb-j2ix4k/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.9f082a5f.chunk.css.map": "https://jjcalamani92.github.io/csb-j2ix4k/static/css/main.9f082a5f.chunk.css.map",
+    "static/js/2.e6fb5c48.chunk.js.LICENSE.txt": "https://jjcalamani92.github.io/csb-j2ix4k/static/js/2.e6fb5c48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccdefbc3.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.e6fb5c48.chunk.js",
+    "static/css/main.9f082a5f.chunk.css",
+    "static/js/main.887333ab.chunk.js"
+  ]
+}
